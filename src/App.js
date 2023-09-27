@@ -1,15 +1,15 @@
+import Header from './components/Header';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p> salam </p>
-        <p> salam </p>
-        <p> salam </p>
-        <li> salam </li>
-        <li> salam </li>
-      </header>
+      <Header curroute={curroute} />
+      <p> salam </p>
+      fdghjkl
+      <p> salam </p>
+      <p> salam </p>
+      sfdghjkl
     </div>
   );
 }
