@@ -14,7 +14,7 @@ export default function Header() {
                         </Link>
                     </div>
                     <div class="navbar-end">
-                        <Link class="navbar-item" to="/blog">All Blogs</Link>
+                        <Link class="navbar-item" to="/blog">Blog</Link>
                         <Link class="navbar-item" to="https://github.com/arvandiii">
                             <img src={GitIcon} alt="Github" />
                         </Link>
