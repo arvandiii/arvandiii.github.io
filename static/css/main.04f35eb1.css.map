@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.04f35eb1.css","mappings":"wEAAA,MAEE,aAAc,CADd,gBAAiB,CAEjB,YAAa,CACb,iBACF","sources":["App.css"],"sourcesContent":["#root {\n  max-width: 1280px;\n  margin: 0 auto;\n  padding: 2rem;\n  text-align: center;\n}\n"],"names":[],"sourceRoot":""}
